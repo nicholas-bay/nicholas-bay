@@ -5,8 +5,8 @@
 <a href="https://discord.com/users/702042747191951490">
   <img align="left" alt="Nicholas' Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Nicholas' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nicholas-bay-3aa073254/">
+  <img align="left" alt="Nicholas' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nicholas-bay)
