@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/nichhhhhy/">
   <img align="left" alt="Nicholas' Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="">
+<a href="https://discord.com/users/702042747191951490">
   <img align="left" alt="Nicholas' Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="">
