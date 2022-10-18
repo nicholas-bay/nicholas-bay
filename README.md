@@ -9,7 +9,7 @@
   <img align="left" alt="Nicholas' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=nicholas-bay)
 
 <br />
 
@@ -25,4 +25,4 @@ Hi, I'm Nicholas, a passionate programmer and currently interning at Singtel as 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicholas-bay&show_icons=true&theme=gotham" alt="Nicholas" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicholas-bay&show_icons=true&theme=gotham" alt="Nicholas" />
